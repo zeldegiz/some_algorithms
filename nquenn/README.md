@@ -1,2 +1,2 @@
-# NQuenn Algoritm Solver
+### NQuenn Algoritm Solver
 
