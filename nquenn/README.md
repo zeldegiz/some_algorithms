@@ -1,2 +1,2 @@
-# nquenn
-N quenn calculator
+# NQuenn Algoritm Solver
+
