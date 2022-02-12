@@ -1,0 +1,2 @@
+# nquenn
+N quenn calculator
